@@ -13,7 +13,7 @@ body {
 	flex: 1;
 }
 
-h1 {
+h1, h2 {
 	font-family: 'Baloo', cursive;
 	font-size: 4em;
 	text-align: center;
