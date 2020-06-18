@@ -1,11 +1,10 @@
 # friend-finder
 
-
-
-
 To use our web service, simply go to our homepage and take our state-of-the-art survey. Immediately after submitting the survey, your perfect best friend will pop up. We also have an API you can access to the network's users and their personalized information. For research purposes.
 
-![Screenshot](./assets/images/friendFinder.JPG)
+![home](./assets/images/friendFinder.JPG)
+
+![Survey](./assets/images/survey.JPG)
 
 Requirements
 Modularity in the form of separate files for server logic, storing of friends, views, and routing
